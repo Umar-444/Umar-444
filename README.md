@@ -6,9 +6,9 @@ I am a Web Developer and Web-Pentester. I enjoy my work and do it with a lot of 
  -  🌱 I’m currently learning Vue.js / Codeigniter and Node.js .
  -  🤔 I’m looking for help with Those who are New in These Technolgoies and I Really Want to Solve and Teach them New Tricks and Tips.
  -  
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+http://www.twitter.com/carlsednaoui
+http://www.facebook.com/sednaoui
+https://plus.google.com/+CarlSednaoui
+http://carlsed.tumblr.com
+http://dribbble.com/carlsednaoui
+http://www.github.com/carlsednaoui
