@@ -31,7 +31,7 @@ I am a Web Developer and Web-Pentester. I enjoy my work and do it with a lot of 
 
       [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
       [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-      [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+      [3.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Finstagram-logo_87390&psig=AOvVaw1l48hm38dCS8k-EcgieCsJ&ust=1636140837288000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD71d65__MCFQAAAAAdAAAAABAD
       [4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
       [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
       [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
@@ -40,9 +40,7 @@ I am a Web Developer and Web-Pentester. I enjoy my work and do it with a lot of 
       <!-- links to your social media accounts -->
       <!-- update these accordingly -->
 
-      [1]: http://www.twitter.com/carlsednaoui
-      [2]: http://www.facebook.com/sednaoui
-      [3]: https://plus.google.com/+CarlSednaoui
-      [4]: http://carlsed.tumblr.com
-      [5]: http://dribbble.com/carlsednaoui
-      [6]: http://www.github.com/carlsednaoui
+      [1]: http://www.twitter.com/Umar_444__
+      [2]: http://www.facebook.com/Umarpak995
+      [4]: http://www.instagram.com/umar_farooq_444
+      [6]: http://www.github.com/Umar-444
