@@ -1,9 +1,9 @@
-### Hi there  👋 I am Umar FarooQ. I am a Web Developer, Programmer and Web-Pentester. I enjoy my work and do it with a lot of patience. I have up to 1 years of experience in Web development and Programming Besides all these Tech stuff. I do Traveling and love to explore Nature
+### Hi there  👋
 
 <!--
 **Umar-444/Umar-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ I am Umar FarooQ. I am a Web Developer, Programmer and Web-Pentester. I enjoy my work and do it with a lot of patience. I have up to 1 years of experience in Web development and Programming Besides all these Tech stuff. I do Traveling and love to explore Nature.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
