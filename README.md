@@ -6,7 +6,8 @@ I am a Web Developer and Web-Pentester. I enjoy my work and do it with a lot of 
  -  🌱 I’m currently learning Vue.js / Codeigniter and Node.js .
  -  🤔 I’m looking for help with Those who are New in These Technolgoies and I Really Want to Solve and Teach them New Tricks and Tips.
  -  📞 Whatsapp Me : +92419260600 .
--  📱 Follow me [![alt text][1.1]][1]
+-  📱 Follow me on ->
+      [![alt text][1.1]][1]
       [![alt text][2.1]][2]
       [![alt text][3.1]][3]
       [![alt text][4.1]][4]
