@@ -1,5 +1,5 @@
 ### Hi there I am Umar FarooQ <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I am a Web Developer and Web-Pentester. I enjoy my work and do it with a lot of patience. I have up to 1 years of experience in Web development Besides all these Tech stuff. I do Traveling and love to explore Nature.
 
  -  🔭 I’m currently working on  Css / Bootstrap / PHP / Laravel / javascript / Jquery / Mysql .
