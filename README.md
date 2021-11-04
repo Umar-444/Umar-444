@@ -19,6 +19,13 @@ I am a Web Developer and Web-Pentester. I enjoy my work and do it with a lot of 
       <!-- icons with padding -->
 
 
+      [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+      [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+      [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+      [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+      [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+      [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+      
       <!-- icons without padding -->
 
       [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
