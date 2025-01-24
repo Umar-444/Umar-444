@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UmarFarooQ</h1>
-<h3 align="center">CEO of WorldWebTree | Agile Project Manager | PHP & PDO Developer | Laravel Developer </h3>
+<h3 align="center">Agile Project Manager | PHP, PDO & Laravel Developer | Python Developer </h3>
 <img align="right" alt="giphy" width='400' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-444&label=Profile%20views&color=0e75b6&style=flat" alt="umar-444" /> </p>
 
@@ -58,9 +58,6 @@
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://platform.openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
