@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639666334303130363333616631373932353834303739343338353266333431343330303863352d64396630353137372d626538642d343137662d383532662d3961373230623166326235372e676966">
+<img align="right" alt="giphy" width='400' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ### 🔥 Quick Facts About Me:
 - 🏢 **Currently Working At:** [World Web Tree](https://worldwebtree.com)
