@@ -35,7 +35,7 @@
   <a href="https://www.fiverr.com/worldwebtree" target="_blank">
     <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
-  <a href="https://wa.me/+923185999772" target="_blank">
+  <a href="https://wa.me/+966594576805" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://github.com/Umar-444" target="_blank">
