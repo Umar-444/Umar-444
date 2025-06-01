@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Umar Farooq! 👋</h1>
-<h3 align="center">💡 Agile Project Manager | 💻 Full-Stack Developer | 🧠 AI Enthusiast</h3>
+<h3 align="center">💡 Agile Project Manager | 💻 Full-Stack Developer | 🔥 PHP-Laravel Expert | 🧠 AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umar-444&label=Profile%20views&color=0e75b6&style=flat" alt="umar-444" />  
