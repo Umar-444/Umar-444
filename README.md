@@ -81,18 +81,7 @@
 ---
 
 ### 📊 GitHub Analytics:
-<div align="center">
-  
-  ![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Umar-444&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar-444&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=8B949E)
-  
-</div>
-
+<div align="center">![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E) ![GitHub Streak](https://streak-stats.demolab.com?user=Umar-444&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E)</div>
 ---
 
 ### 🎯 Current Focus:
