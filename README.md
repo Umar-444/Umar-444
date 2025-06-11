@@ -47,37 +47,44 @@
 
 ### 🛠️ Tech Stack:
 
-#### 🌈 Frontend:
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🌈 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" width="80" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" width="80" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" width="80" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" width="80" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" width="80" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" width="80" alt="Bootstrap"/>
+</p>
 
-#### ⚙️ Backend:
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" width="80" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" width="80" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" width="80" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" width="80" alt="Django"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" width="80" alt="Node.js"/>
+</p>
 
-#### 🗃️ Databases:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ERPNext](https://img.shields.io/badge/-ERPNext-7575FF?style=for-the-badge&logo=erpnext&logoColor=white)
+### 🗃️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" width="80" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" width="80" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" width="80" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/ERPNext-7575FF?logo=erpnext&logoColor=white&style=flat" width="80" alt="ERPNext"/>
+</p>
 
-#### 🛠️ Tools & Platforms:
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" width="80" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" width="80" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" width="80" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" width="80" alt="Postman"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat" width="80" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat" width="80" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" width="80" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat" width="80" alt="Photoshop"/>
+</p>
 ---
 
 ### 📊 GitHub Analytics:
