@@ -49,42 +49,35 @@
 
 ### 🌈 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" width="80" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" width="80" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" width="80" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" width="80" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" width="80" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" width="80" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="28" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="28" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="Bootstrap"/>
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" width="80" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" width="80" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" width="80" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" width="80" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" width="80" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="28" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="28" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="28" alt="Django"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28" alt="Node.js"/>
 </p>
 
 ### 🗃️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" width="80" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" width="80" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" width="80" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/ERPNext-7575FF?logo=erpnext&logoColor=white&style=flat" width="80" alt="ERPNext"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/ERPNext-7575FF?logo=erpnext&logoColor=white&style=for-the-badge" height="28" alt="ERPNext"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" width="80" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" width="80" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" width="80" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" width="80" alt="Postman"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat" width="80" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat" width="80" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" width="80" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat" width="80" alt="Photoshop"/>
-</p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="28" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt
 ---
 
 ### 📊 GitHub Analytics:
