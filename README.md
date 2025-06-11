@@ -46,38 +46,36 @@
 ---
 
 ### 🛠️ Tech Stack:
-
 ### 🌈 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="28" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="28" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="Bootstrap"/>
-</p>
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 
 ### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="28" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="28" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="28" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28" alt="Node.js"/>
-</p>
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### 🗃️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/ERPNext-7575FF?logo=erpnext&logoColor=white&style=for-the-badge" height="28" alt="ERPNext"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![ERPNext](https://img.shields.io/badge/-ERPNext-000?&logo=erpnext)
 
 ### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="28" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt
+![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
 ---
 
 ### 📊 GitHub Analytics:
@@ -101,7 +99,7 @@
 > *- Umar Farooq (after deleting 500 lines of legacy code)*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Thanks+for+visiting!+✌️;Let's+build+something+amazing+together!;Keep+coding%2C+keep+innovating!;Turning+ideas+into+reality+since+2015" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Thanks+for+visiting!+✌️;Let's+build+something+amazing+together!;Turning+ideas+into+reality+since+2017;Keep+coding%2C+keep+innovating!" alt="Typing SVG" />
 </p>
 
 <div align="center">
