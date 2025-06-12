@@ -98,12 +98,27 @@
  <img src="https://streak-stats.demolab.com/?user=Umar-444&theme=radical&hide_border=true&background=0D1117&fire=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF&dates=8B949E&ring=58A6FF&stroke=8B949E&currStreakLabel=8B949E">
 </div>
 
-### 🎯 Current Focus:
-- 🔍 Exploring AI/ML integrations with OpenAI
-- 🚀 Building modern web apps with Next.js + Tailwind
-- 📊 Implementing ERPNext solutions for businesses
-- 🐋 Containerizing applications with Docker
-- 📚 Learning advanced PostgreSQL features
+### 🤝 Let's Build Something Amazing!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Open+for+collaborations!;Let's+create+the+next+big+thing;AI+%E2%9A%99%EF%B8%8F+Web+%E2%9A%99%EF%B8%8F+Cloud;Innovate+with+me+today" alt="Collaboration animation">
+</p>
+
+**I'm excited to work on:**
+- 🧠 **AI/ML Projects** - Especially OpenAI integrations
+- 🌐 **Full-Stack Apps** - Next.js + Tailwind combos
+- 🏢 **Business Solutions** - ERPNext customizations
+- 🐳 **Containerized Systems** - Docker/Kubernetes setups
+- 📈 **Database Magic** - PostgreSQL optimizations
+
+<p align="center">
+  <a href="mailto:umar@worldwebtree.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-58A6FF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact">
+  </a>
+  <a href="https://wa.me/+966594576805">
+    <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ---
 
@@ -111,9 +126,6 @@
 > "Good developers write code that works. Great developers delete code that doesn't."  
 > *- Umar Farooq (after deleting 500 lines of legacy code)*
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Thanks+for+visiting!+✌️;Let's+build+something+amazing+together!;Turning+ideas+into+reality+since+2017;Keep+coding%2C+keep+innovating!" alt="Typing SVG" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
