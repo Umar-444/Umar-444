@@ -13,15 +13,22 @@
 
 <img align="right" alt="giphy" width='400' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-### 🔥 Quick Facts About Me:
-- 🏢 **Currently Working At:** [World Web Tree](https://worldwebtree.com)
-- 📧 **Reach Me:** 
-  - **Company Email:** [umar@worldwebtree.com](mailto:umar@worldwebtree.com)
-  - **Personal Email:** [umarpak995@gmail.com](mailto:umarpak995@gmail.com)
-- 😄 **Fun Fact:** I can debug production issues in my dreams (and sometimes actually solve them!) 💭🐛
-- 🎯 **Life Motto:** *"First make it work, then make it right, finally make it fast... and secure!"*
-- ⚡ **Secret Power:** Turning coffee ☕ into code 💻
 
+📌 **Professional**  
+🏢 **Currently Working At:** [WorldWebTree](https://worldwebtree.com)  
+💼 **Role:** Full-Stack Developer & Problem Solver  
+🌱 **Currently Learning:** Next.js Advanced Patterns  
+
+📬 **Contact Me**  
+✉️ **Company Email:** [umar@worldwebtree.com](mailto:umar@worldwebtree.com)  
+📧 **Personal Email:** [umarpak995@gmail.com](mailto:umarpak995@gmail.com)  
+
+💡 **Fun Stuff**  
+🎯 **Life Motto:**  
+
++ First, make it work 
+! Then make it right 
+# Finally make it fast... and secure!
 ---
 
 ### 🌐 Let's Connect:
@@ -68,14 +75,21 @@
 ![ERPNext](https://img.shields.io/badge/-ERPNext-000?&logo=erpnext)
 
 ### 🛠️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visual-studio-code)
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
-![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 ---
 
 ### 📊 GitHub Analytics:
