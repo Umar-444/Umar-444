@@ -104,12 +104,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Open+for+collaborations!;Let's+create+the+next+big+thing;AI+%E2%9A%99%EF%B8%8F+Web+%E2%9A%99%EF%B8%8F+Cloud;Innovate+with+me+today" alt="Collaboration animation">
 </p>
 
-**I'm excited to work on:**
-- 🧠 **AI/ML Projects** - Especially OpenAI integrations
-- 🌐 **Full-Stack Apps** - Next.js + Tailwind combos
-- 🏢 **Business Solutions** - ERPNext customizations
-- 🐳 **Containerized Systems** - Docker/Kubernetes setups
-- 📈 **Database Magic** - PostgreSQL optimizations
 
 <p align="center">
   <a href="mailto:umar@worldwebtree.com">
