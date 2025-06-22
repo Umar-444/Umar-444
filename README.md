@@ -94,6 +94,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umar-444" alt="Umar-444" /></p>
+
+
 </div>
 
 ### 🤝 Let's Build Something Amazing!
