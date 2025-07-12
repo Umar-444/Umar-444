@@ -94,7 +94,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umar-444" alt="Umar-444" /></p>
+  <img src="https://umar-streak-stats.vercel.app?user=umar-444&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF&currStreakLabel=8B949E&dates=8B949E&stroke=8B949E" height="180" />
 
 
 </div>
