@@ -92,8 +92,8 @@
 
 ### 📊 GitHub Analytics:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=umar-444&theme=transparent&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" /></a>
 
 </div>
