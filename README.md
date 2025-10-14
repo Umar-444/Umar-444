@@ -50,53 +50,35 @@
   </a>
 </p>
 
-### 🛠️ Tech Stack:
-### 🌈 Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+### 🛠️ Tech Stack  
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+<div align="center">
 
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![ERPNext](https://img.shields.io/badge/-ERPNext-000?&logo=erpnext)
+| 🌈 **Frontend** | ⚙️ **Backend** | 🗃️ **Databases** | ⚒️ **Tools** | ☁️ **Platforms** |
+|:----------------:|:---------------:|:----------------:|:--------------:|:----------------:|
+| ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs) | ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql) | ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) | ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS) |
+| ![React](https://img.shields.io/badge/-React-000?&logo=React) | ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel) | ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) | ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) | ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase) |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css) | ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) | ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb) | ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman) | ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5) | ![Django](https://img.shields.io/badge/-Django-000?&logo=django) | ![ERPNext](https://img.shields.io/badge/-ERPNext-000?&logo=erpnext) | ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira) | ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3) | ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) |  | ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello) | ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) |  |  | ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) |
+|  |  |  | ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) | ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva) |
 
-### 🛠️ Tools & Platforms
+</div>
 
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
+
 ---
 
 ### 📊 GitHub Analytics:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=umar-444&theme=transparent&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" /></a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" width="340" height="150" />
+  <img src="https://streak-stats.demolab.com?user=umar-444&theme=transparent&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" width="340" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-444&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" width="270" height="150" />
+
 
 </div>
+
 
 ### 🤝 Let's Build Something Amazing!
 
