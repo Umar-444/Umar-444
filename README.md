@@ -50,7 +50,7 @@
   </a>
 </p>
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stacks I can Work in...
 
 <div align="center">
 
