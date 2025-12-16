@@ -69,16 +69,6 @@
 
 ---
 
-### 📊 GitHub Analytics:
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar-444&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" width="350" height="170" />
- 
-
-
-</div>
-
-
 ### 🤝 Let's Build Something Amazing!
 
 <p align="center">
